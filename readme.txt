@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: Tomas Vorobjov aka SciBuff
-Donate link: http://www.scibuff.com
 Tags: twitter tools, search tags
 Requires at least: 2.7
 Tested up to: 2.7.1

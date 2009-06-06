@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: Twitter Tools Search Tags
-Plugin URI: http://www.scibuff.com
+Plugin URI: http://www.scibuff.com/2009/06/05/search-tags-extension-to-the-twitter-tools-wordpress-plugin/
 Description: Adds twitter search tags to the Twitter Tools automatic "New Blog Post" status using Twitter Tool's 'tweet_blog_post_url' hook. The plugin will add post tags as twitter search tags to the "New Blog Post" twitter status message (and also shorten the new post's url using http://is.gd API). 
 Version: 1.0
 Author: Tomas Vorobjov aka Scibuff
